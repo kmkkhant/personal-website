@@ -190,7 +190,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'PDF to Excel Converter',
+    name: 'PDF to Excel',
     description: `A website that converts PDF to Excel sheet for UC San Diego Library.`,
     tags: [
       {
@@ -212,9 +212,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'College Bud',
+    name: 'Chatty',
     description:
-      'A website for college students to plan classes, calculate GPA, and grades.',
+      'An AI chat with ChatGPT',
     tags: [
       {
         name: 'nextjs',
