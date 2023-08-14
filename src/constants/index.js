@@ -8,23 +8,16 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   git,
   figma,
-  docker,
-  postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
   movie,
   nyeusi,
-  space,
   coverhunt,
-  dcc,
   kelhel,
   microverse,
 } from '../assets';
@@ -85,28 +78,12 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
-  {
     name: 'Tailwind CSS',
     icon: tailwind,
   },
   {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
-  {
-    name: 'postgresql',
-    icon: postgresql,
   },
   {
     name: 'git',
@@ -116,48 +93,38 @@ const technologies = [
     name: 'figma',
     icon: figma,
   },
-  {
-    name: 'docker',
-    icon: docker,
-  },
 ];
 
 const experiences = [
   {
     title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    company_name: 'Computer Science and Engineering Society UC San Diego',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'June 2023 - Present',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Lead Developer',
+    company_name: 'Burmese Student Association UC San Diego',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Mar 2023 - Present',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Project Manager',
+    company_name: 'City of Chula Vista',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'January 2021 - June 2021',
   },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
-  },
+
 ];
 
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'CSES ',
+    description: 'An informative websiet for Computer Science and Engineering Society at UC San Diego',
     tags: [
       {
         name: 'react',
@@ -173,14 +140,14 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
+    repo: 'https://github.com/Will-Hsu/cses_webdev',
     demo: 'https://shaqdeff.github.io/KomiKult/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'BURSA',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A website for Burmese Student Association UC San Diego',
     tags: [
       {
         name: 'react',
@@ -196,13 +163,13 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
+    repo: 'https://github.com/kaung-min-khant/bursa-ucsd',
     demo: 'https://shaqdeff.github.io/Leaderboard/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Add Your Recipe',
+    description: 'An iOS app that allows users to add their own recipes and share them with others.',
     tags: [
       {
         name: 'nextjs',
@@ -218,13 +185,13 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
+    repo: 'https://github.com/kaung-min-khant/add-your-recipe',
     demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'PDF to Excel Converter',
+    description: `A website that converts PDF to Excel sheet for UC San Diego Library.`,
     tags: [
       {
         name: 'nextjs',
@@ -240,14 +207,14 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
+    repo: 'https://github.com/kaung-min-khant/circuit',
     demo: 'https://movie-metro.netlify.app/',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'College Bud',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'A website for college students to plan classes, calculate GPA, and grades.',
     tags: [
       {
         name: 'nextjs',
@@ -263,7 +230,7 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
+    repo: 'https://github.com/kaung-min-khant/college-bud',
     demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
   },
 ];
