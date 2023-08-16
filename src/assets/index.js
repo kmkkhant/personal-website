@@ -9,9 +9,10 @@ import logotext from './logo/logo-text-black.png';
 import shaq from './personal/shaq.png';
 
 import backend from './icons/backend.png';
-import ux from './icons/ux.png';
-import frontend from './icons/frontend.png';
-import prototyping from './icons/prototyping.png';
+import business from './icons/business.png';
+import computerscience from './icons/computerscience.png';
+import economics from './icons/economics.png';
+import mathematics from './icons/mathematics.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -59,9 +60,10 @@ export {
   logotext,
   shaq,
   backend,
-  ux,
-  frontend,
-  prototyping,
+  business,
+  computerscience,
+  economics,
+  mathematics,
   github,
   close,
   download,

@@ -37,12 +37,15 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        I&apos;m a senior studying Mathematics-Computer Science and Business Economics
+        at UC San Diego. I&apos;m passionate about building websites, and mobile
+        apps. I&apos;ve taken a variety of courses in computer science, mathematics, economics,
+        and management. The Computer Science and Mathematics courses include Object Oriented Programming in Java, Discrete Mathematics, 
+        Advanced Data Structures, Software Tools & Techniques, Design and Analysis of Algorithms, 
+        Theory of Computability. The Economics and Management courses include Microeconomics, Macroeconomics,
+        Econometrics, Customer Analytics, Product Marketing and Management, Business and Organizational Leadership, Operations Management,
+        Business Finance, Investment Banking, and New Venture Finance. 
+        
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
