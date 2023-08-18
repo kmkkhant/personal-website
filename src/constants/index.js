@@ -230,7 +230,7 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/kaung-min-khant/college-bud',
+    repo: 'https://github.com/kaung-min-khant/chatty',
     demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
   },
 ];
