@@ -37,14 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I&apos;m a senior studying Mathematics-Computer Science and Business Economics
-        at UC San Diego. I&apos;m passionate about building websites, and mobile
-        apps. I&apos;ve taken a variety of courses in computer science, mathematics, economics,
-        and management. The Computer Science and Mathematics courses include Object Oriented Programming in Java, Discrete Mathematics, 
-        Advanced Data Structures, Software Tools & Techniques, Design and Analysis of Algorithms, 
-        Theory of Computability. The Economics and Management courses include Microeconomics, Macroeconomics,
-        Econometrics, Customer Analytics, Product Marketing and Management, Business and Organizational Leadership, Operations Management,
-        Business Finance, Investment Banking, and New Venture Finance. 
+        Strong interest in AI technology, with coursework in mathematics and computer science providing a solid foundation for machine learning and artificial intelligence development, and a dedication to staying up-to-date with the latest advancements in this rapidly evolving field. Proficient in Java, with strong understanding of object-oriented programming, advanced data structures, as well as software tools and techniques. Skilled in problem-solving and algorithmic thinking through coursework in discrete mathematics, design and analysis of algorithms, and numerical method modeling. Familiar with mathematical concepts and their practical applications, supported by coursework in linear algebra and business economics, enabling data-driven decision-making and quantitative analysis. Ability to quickly grasp new technologies and programming languages. Committed to delivering high-quality software solutions with a keen eye for detail, ensuring code integrity, efficiency, and maintainability. Well-versed in software development best practices, including version control, code documentation, and unit testing. Passion for creating innovative and user-friendly applications and enthusiastic about contributing to a dynamic and creative software development environment.
         
       </motion.p>
 
