@@ -233,6 +233,27 @@ const projects = [
     repo: 'https://github.com/kaung-min-khant/chatty',
     demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
   },
+  {
+    id: 'project-6',
+    name: 'Snow Time',
+    description: 'Swift application for Vision OS producing lifelike snow effects.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'mongodb',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: komikult,
+    repo: 'https://github.com/kaung-min-khant/SnowTime',
+  },
 ];
 
 export { services, technologies, experiences, projects };
